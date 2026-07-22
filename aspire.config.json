@@ -1,0 +1,6 @@
+{
+  "appHost": {
+    "path": "OrderPipeline.AppHost/OrderPipeline.AppHost.csproj"
+  },
+  "channel": "stable"
+}
